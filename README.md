@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-Repository holding leet code algorithm solutions
+Repository holding leet code algorithm solutions in Python
