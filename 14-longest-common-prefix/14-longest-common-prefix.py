@@ -4,11 +4,14 @@ class Solution:
         number_of_words = len(strs)
         same_prefix = True
         same_prefix_words = ""
+        
+        # handling edge cases:
         if strs == [""]:
             return ""
         elif number_of_words == 1:
             return strs[0][0]
         
+        # handling regular case:
         for i in range(len_smallest_string):
             
             for j in range(number_of_words):
@@ -20,12 +23,11 @@ class Solution:
                 elif strs[j][i] != strs[j+1][i]:
                     same_prefix = False
                     break
-                # print(f"comparing {strs[j][i]} with {strs[j+1][i]}")
+                    
             if not same_prefix:
                 break
             elif same_prefix:
                 same_prefix_words = same_prefix_words + strs[0][i]
-            # print("going for another round")
         
         return same_prefix_words
             
