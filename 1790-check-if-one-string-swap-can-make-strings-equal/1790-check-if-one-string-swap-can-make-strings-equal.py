@@ -1,7 +1,9 @@
 class Solution:
     
-    def areAlmostEqual(self, s1: str, s2: str) -> bool:
-    
+            
+    def areAlmostEqual(self, s1: str, s2: str) -> bool:    
+        
+        # our helper function that actually solves the issue
         def checker(s1: str, s2: str, is_sorted: bool) -> bool:
             comparison_check_value = 0 if is_sorted else 2
             distinct_letters = 0
@@ -16,8 +18,8 @@ class Solution:
                 return True
             else:
                 return False
-
         
+        # checking results
         max_one_swap = checker(s1, s2, False)
         no_different_letters = checker(sorted(s1), sorted(s2), True)
         
@@ -25,6 +27,8 @@ class Solution:
             return True
         else:
             return False
+        
+        
         
         
         
