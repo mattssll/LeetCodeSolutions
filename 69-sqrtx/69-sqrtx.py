@@ -6,6 +6,3 @@ class Solution:
                 return i
             elif result > x:
                 return i - 1
-                        
-            
-            
