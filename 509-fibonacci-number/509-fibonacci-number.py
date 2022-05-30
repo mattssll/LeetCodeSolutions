@@ -7,6 +7,3 @@ class Solution:
             return self.fib(n-1) + self.fib(n-2)
             
         return fibonnaci_fx(n)
-        
-        
-        
