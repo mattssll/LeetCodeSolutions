@@ -6,5 +6,3 @@ class Solution:
             if (ruleKey, ruleValue) in dictValue.items():
                 match_rule += 1
         return match_rule
-            
-        
