@@ -9,10 +9,10 @@ class Solution:
                 counter += 1
                 max_counter = counter
                 continue
-            difference_n_minus_one = v - nums[i-1]
-            if difference_n_minus_one == 0:
+            difference_minus_one = v - nums[i-1]
+            if difference_minus_one == 0:
                 continue
-            elif difference_n_minus_one == 1:
+            elif difference_minus_one == 1:
                 counter +=1
                 if counter > max_counter:
                     max_counter = counter
