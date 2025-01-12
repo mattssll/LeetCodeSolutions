@@ -17,6 +17,7 @@ Repository holding leet code algorithm solutions in Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mattssll/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,5 @@ Repository holding leet code algorithm solutions in Python
 | ------- |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mattssll/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
