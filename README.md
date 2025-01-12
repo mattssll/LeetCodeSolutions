@@ -7,10 +7,12 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
