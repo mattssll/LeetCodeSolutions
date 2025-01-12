@@ -11,6 +11,7 @@ Repository holding leet code algorithm solutions in Python
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Repository holding leet code algorithm solutions in Python
 | [0125-valid-palindrome](https://github.com/mattssll/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +59,9 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
