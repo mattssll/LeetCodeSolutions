@@ -15,4 +15,12 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mattssll/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mattssll/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
