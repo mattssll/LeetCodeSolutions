@@ -18,9 +18,15 @@ Repository holding leet code algorithm solutions in Python
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mattssll/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mattssll/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
