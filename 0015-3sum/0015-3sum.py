@@ -8,6 +8,7 @@ class Solution(object):
         nums.sort()
 
         for i in range(len(nums)):
+            # avoid duped triplets
             if i > 0 and nums[i] == nums[i-1]:
                 continue
             
@@ -24,7 +25,7 @@ class Solution(object):
                 else:
                     res.append([nums[i], nums[j], nums[k]])
                     j += 1
-
+                    # remove duped triplets
                     while nums[j] == nums[j-1] and j < k:
                         j += 1
         
