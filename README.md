@@ -26,6 +26,7 @@ Repository holding leet code algorithm solutions in Python
 | [0344-reverse-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mattssll/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1894-merge-strings-alternately](https://github.com/mattssll/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Repository holding leet code algorithm solutions in Python
 | [0151-reverse-words-in-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mattssll/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/mattssll/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
