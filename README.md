@@ -64,6 +64,7 @@ Repository holding leet code algorithm solutions in Python
 | [0242-valid-anagram](https://github.com/mattssll/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/mattssll/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +76,12 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
