@@ -23,6 +23,7 @@ Repository holding leet code algorithm solutions in Python
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Repository holding leet code algorithm solutions in Python
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
