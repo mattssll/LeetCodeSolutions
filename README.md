@@ -65,6 +65,7 @@ Repository holding leet code algorithm solutions in Python
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mattssll/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mattssll/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
@@ -86,6 +87,7 @@ Repository holding leet code algorithm solutions in Python
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mattssll/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
