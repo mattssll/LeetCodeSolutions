@@ -12,6 +12,7 @@ Repository holding leet code algorithm solutions in Python
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/mattssll/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mattssll/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
@@ -35,6 +36,7 @@ Repository holding leet code algorithm solutions in Python
 | ------- |
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/mattssll/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mattssll/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mattssll/LeetCodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Linked List
@@ -61,6 +63,7 @@ Repository holding leet code algorithm solutions in Python
 | [0001-two-sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/mattssll/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/mattssll/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mattssll/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
