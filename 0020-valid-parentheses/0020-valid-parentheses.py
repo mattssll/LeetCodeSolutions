@@ -4,30 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        # {(})}
-        # when getting closing item, need to check previus by popping
         stack = []
-        check = {"}":"{",")":"(", "]":"["}
-        openings = ["{", "(", "["]
-        closings = ["}", ")", "]"]
+        check = {")": "(", "}": "{", "]": "["}  # Closing to opening mapping
 
-        for i in s:
-            if i in openings:
-                stack.append(i)
-                continue
-            if i in closings: # i = ")"
-                if len(stack) == 0:
+        for char in s:
+            if char in check:  # If it's a closing bracket
+                if not stack or stack.pop() != check[char]:
+                    # not stack means if stack is empty # '{}]' or ']'
                     return False
-                popped = stack.pop()
-                # now check
-                if popped == check[i]:
-                    continue
-                else:
-                    return False
-        if len(stack)==0:
-            return True
-        else:
-            return False
+            else:
+                stack.append(char)  # It's an opening bracket
 
-
-        
+        return not stack  # Stack should be empty if valid
