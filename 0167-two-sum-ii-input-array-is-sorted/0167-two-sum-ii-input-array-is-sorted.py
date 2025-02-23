@@ -1,20 +1,20 @@
-class Solution:
-    def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        
-        left = 0
-        right = len(numbers) - 1
-        
-        while left < right:
-            current_sum = numbers[left] + numbers[right]
-            # Check if the target is found
-            if current_sum == target:
-                return [left + 1, right + 1]  # Return 1-based indices
-            # If the sum is too large, move the right pointer leftward
-            elif current_sum > target:
-                right -= 1
-            # If the sum is too small, move the left pointer rightward
+class Solution(object):
+    def twoSum(self, numbers, target):
+        """
+        :type numbers: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        i = 0
+        j = len(numbers)-1
+        while i<j:
+            t_sum = numbers[i]+numbers[j]
+            if t_sum==target:
+                return [i+1, j+1]
+            elif t_sum>target:
+                # decrease our t_sum
+                j-=1
             else:
-                left += 1
-
-        # This will never be reached as the problem guarantees exactly one solution
-        return []
+                # increase t_sum
+                i+=1
+        return
