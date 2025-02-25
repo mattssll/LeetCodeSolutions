@@ -52,11 +52,13 @@ Repository holding leet code algorithm solutions in Python
 | ------- |
 | [0002-add-two-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mattssll/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mattssll/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +114,12 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mattssll/LeetCodeSolutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
