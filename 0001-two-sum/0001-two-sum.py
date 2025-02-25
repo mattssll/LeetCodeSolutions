@@ -5,13 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        my_dict = {}
-        for i, v in enumerate(nums):
-            diff = target - v
-            if diff in my_dict:
-                return [my_dict[diff], i]
-            my_dict[v] = i
-            # target = a + b; a is v
-            # b = target-a
-            # if diff is in target then return
-            # otherwise we add to hash map
+        helper_dict = {}
+        # we will do a single pass
+        for i, n in enumerate(nums):
+            # target = n + result
+            needed = target - n
+            # in single pass if result is in dict we return,
+            # otherwise add to dict
+            if needed in helper_dict:
+                return [i, helper_dict[needed]]
+            else:
+                helper_dict[n] = i
+
