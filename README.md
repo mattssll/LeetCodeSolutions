@@ -108,4 +108,8 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mattssll/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/mattssll/LeetCodeSolutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
