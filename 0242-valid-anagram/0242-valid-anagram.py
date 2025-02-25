@@ -1,17 +1,24 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        s_dict = {}
-        t_dict = {}
-        for letter in s:
-            if letter not in s_dict:
-                s_dict[letter]=1
-            elif letter in s_dict:
-                s_dict[letter]+=1
-            
-        for letter in t:
-            if letter not in t_dict:
-                t_dict[letter]=1
-            elif letter in t_dict:
-                t_dict[letter] +=1
+class Solution(object):
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        # we get 2 dics, do a count
+        # base case is that if length of strings is diff return false
+        if len(s)!= len(t):
+            return False
+
+        dict_s = {}
+        dict_t = {}
+        for i in range(len(s)):  # s or t, whatever, same len
+            # if non existent gets 0, otherwise get value, add 1
+            dict_s[s[i]] = dict_s.get(s[i], 0) + 1
+            dict_t[t[i]] = dict_t.get(t[i], 0) + 1
         
-        return s_dict == t_dict
+        if dict_s == dict_t:
+            return True
+        else:
+            return False
+        
