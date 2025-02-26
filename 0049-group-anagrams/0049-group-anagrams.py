@@ -5,7 +5,7 @@ class Solution(object):
         }  # Initialize for 'a' to 'z'
         for letter in word:
             frequency[letter] = frequency.get(letter, 0) + 1
-        return str(frequency)
+        return tuple(frequency.values())
     def groupAnagrams(self, strs):
         """
         :type strs: List[str]
