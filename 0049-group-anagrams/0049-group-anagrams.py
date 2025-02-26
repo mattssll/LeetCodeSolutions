@@ -18,7 +18,7 @@ class Solution(object):
         res_dict = {}
         for word in strs:
             w_freq = self.get_char_frequency(word)
-            if str(self.get_char_frequency(word)) not in res_dict:
+            if w_freq not in res_dict:
                 res_dict[w_freq] = [word]
             else:
                 res_dict[w_freq].append(word)
