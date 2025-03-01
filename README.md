@@ -7,6 +7,7 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
@@ -19,6 +20,7 @@ Repository holding leet code algorithm solutions in Python
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mattssll/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -145,4 +147,8 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mattssll/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
