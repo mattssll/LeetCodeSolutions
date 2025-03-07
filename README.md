@@ -11,6 +11,7 @@ Repository holding leet code algorithm solutions in Python
 | [0015-3sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mattssll/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -26,6 +27,7 @@ Repository holding leet code algorithm solutions in Python
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mattssll/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mattssll/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mattssll/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +102,7 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mattssll/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [2470-removing-stars-from-a-string](https://github.com/mattssll/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -124,6 +127,7 @@ Repository holding leet code algorithm solutions in Python
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -157,4 +161,8 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mattssll/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
