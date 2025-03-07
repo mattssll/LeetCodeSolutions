@@ -12,6 +12,7 @@ Repository holding leet code algorithm solutions in Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mattssll/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mattssll/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mattssll/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mattssll/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mattssll/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mattssll/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ Repository holding leet code algorithm solutions in Python
 | ------- |
 | [0001-two-sum](https://github.com/mattssll/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mattssll/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mattssll/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mattssll/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mattssll/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mattssll/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -151,4 +153,8 @@ Repository holding leet code algorithm solutions in Python
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mattssll/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mattssll/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
