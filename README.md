@@ -54,6 +54,7 @@ Repository holding leet code algorithm solutions in Python
 | [0021-merge-two-sorted-lists](https://github.com/mattssll/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mattssll/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mattssll/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/mattssll/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
