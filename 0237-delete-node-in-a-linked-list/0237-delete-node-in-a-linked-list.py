@@ -10,5 +10,8 @@ class Solution:
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
+        # 1. recall urself to next val
+        # 2. make your next the next of next
+        # [4,5,1,9]
         node.val = node.next.val
         node.next = node.next.next
